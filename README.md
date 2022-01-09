@@ -1,4 +1,4 @@
-# A star algorithm
+# A * search algorithm
 
 Artificial Intelligence university course first homework.
 
